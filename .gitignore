@@ -1,0 +1,13 @@
+.idea
+target
+*.iml
+*.txt
+*.csv
+*.log
+*.log.20*
+*.parquet
+examples
+data/*
+*~
+*.dat
+*.avro
